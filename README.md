@@ -10,6 +10,8 @@ Esta aplicación permite agregar nombres de amigos a una lista y sortear aleator
 4. Repite los pasos 2-3 para todos los participantes
 5. Haz clic en "Sortear amigo" para obtener un resultado aleatorio
 
+Puedes visitar este [link](https://gabonmars.github.io/challenge-amigo-secreto/) para ver una demo en vivo del proyecto.
+
 ## Archivos
 
 - `index.html` - Estructura HTML de la aplicación
